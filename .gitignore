@@ -3,6 +3,8 @@
 
 ### Azure CLI ##
 .azure
+.venv
+.vscode
 
 ### Django ###
 *.log
